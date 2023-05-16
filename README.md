@@ -3,4 +3,4 @@
 # Welcome to Lung Cancer Center of Excellence Workshop 2023!
 _______________________________________________________________________________
 
-## Please press "Wiki" button above to see helpful documentation!
+## Please press ["Wiki"](https://github.com/McGranahanLab/LCCE_workshop_2023/wiki) button above to see helpful documentation!
